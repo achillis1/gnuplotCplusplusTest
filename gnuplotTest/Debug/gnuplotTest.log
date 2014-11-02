@@ -1,0 +1,20 @@
+﻿Build started 2/9/2014 4:38:05 PM.
+     1>Project "C:\share\Ding1\Ding\LP\machinelearning\gnuplotTest\gnuplotTest\gnuplotTest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\gnuplotTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\gnuplotTest.unsuccessfulbuild".
+         Touching "Debug\gnuplotTest.lastbuildstate".
+     1>Done Building Project "C:\share\Ding1\Ding\LP\machinelearning\gnuplotTest\gnuplotTest\gnuplotTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16
